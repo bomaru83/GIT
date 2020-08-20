@@ -2,6 +2,8 @@
 
 command line interface 명령어를 정리합니다.
 
+
+
 #### pwd
 
 print working directory
@@ -43,12 +45,16 @@ cd <PATH> # 이동하고 싶은 폴더를 PATH에 입력, tab을 이용해 자�
 - `git init`: 깃저장소를 생성한다.
 - `git status`: 깃의 상태를 보여준다.
 - `git add <Filename>`: working directory에서 staging area로 올린다.
+- `git remote add origin <URL>`:
+- `git remote remove origin`:  
 - `git commit -m "Explain"`: local repository(.git)에 올려준다.
 - `git push origin master`: github에 올려준다. 여기부터는 내 컴퓨터가 아님!
 
 <img src="command.assets/git_transaction.png" alt="git_transaction" style="zoom:80%;" />
 
 
+
+- `touch .gitignore`: git올릴 때 필요없는 파일 없애준다. *참고: [gitignore.io](https://www.toptal.com/developers/gitignore)
 
 #### vi
 
