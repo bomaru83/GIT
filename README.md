@@ -58,7 +58,7 @@ cd <PATH> # 이동하고 싶은 폴더를 PATH에 입력, tab을 이용해 자�
 - `git commit -m "Explain"`: local repository(.git)에 올려준다.
 - `git push origin master`: github에 올려준다. 여기부터는 내 컴퓨터가 아님!
 
-<img src="command.assets/git_transaction.png" alt="git_transaction" style="zoom:80%;" />
+![image](https://user-images.githubusercontent.com/61652163/123497521-dac1aa00-d668-11eb-9c9d-c262c51e532f.png)
 
 
 
